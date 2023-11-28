@@ -610,9 +610,9 @@
   .sidebar {
     float: left;
     width: 20%;
-    height: max-content;
+    height: auto;
     margin-right: 20px;
-    background-color: var(--primary);
+    background-color: #17A2B8;
   }
 
   .content {
